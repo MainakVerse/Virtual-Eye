@@ -66,7 +66,7 @@ def cifar10_classification():
 # Main function to control the navigation
 def main():
     st.sidebar.title("Navigation")
-    choice = st.sidebar.selectbox("Choose Model", ("CIFAR-10","MobileNetV2 (ImageNet)"))
+    choice = st.sidebar.selectbox("Choose Model", ("MobileNetV2 (ImageNet)", "CIFAR-10"))
     
     if choice == "MobileNetV2 (ImageNet)":
         mobilenetv2_imagenet()
