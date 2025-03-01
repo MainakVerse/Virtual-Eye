@@ -1,5 +1,6 @@
-# DeepLensX
-DeepLensX is a Streamlit app that integrates MobileNetV2 and a CIFAR-10 model for image classification. Users can upload images and receive predictions with confidence scores from either model. It features a sleek navigation bar for easy switching and real-time results, which is ideal for learning and practical use.
+# Virtual Eye
+Virtual Eye is a Streamlit app that integrates MobileNetV2 and a CIFAR-10 model for image classification. Users can upload images and receive predictions with confidence scores from either model. It features a sleek navigation bar for easy switching and real-time results, which is ideal for learning and practical use.
+![image](https://github.com/user-attachments/assets/b7745551-7183-4599-9b8e-acf795afc557)
 
 ## Key Features
 
@@ -17,29 +18,7 @@ DeepLensX is a Streamlit app that integrates MobileNetV2 and a CIFAR-10 model fo
 
 ## Getting Started
 
-### Prerequisites
-
-- Python 3.7 or later
-- A web browser
-
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/JayRathod341997/DeepLensX.git
-   cd DeepLensX
-2. **Create and activate a virtual environment**:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-3. **Install the required packages**:
-    ```bash
-    pip install -r requirements.txt
-4. **Start the Streamlit app**:
-    ```bash
-    streamlit run app.py
-5. **Open the app**: 
-    The app will open in your default web browser. If not, navigate to http://localhost:8501
+![image](https://github.com/user-attachments/assets/e0c3afda-9522-4ad1-91fd-bba331434370)
 
 
 ### Usage
